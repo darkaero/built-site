@@ -1,0 +1,4 @@
+# robots.txt for https://darkaero.com
+
+User-agent: *
+Sitemap: https://darkaero.com/site-map.xml
