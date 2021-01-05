@@ -6,40 +6,46 @@
 	<url>
 		<loc>https://www.darkaero.com/aircraft/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/faq/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/about/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/shop/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/updates/</loc>
 	</url>
-    <url>
+	<url>
+		<loc>https://www.darkaero.com/press/</loc>
+	</url>
+	<url>
+		<loc>https://www.darkaero.com/consulting/</loc>
+	</url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/composites/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/machining/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/hardware-specs/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/avionics/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/aircraft-design/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/tools/</loc>
 	</url>
-    <url>
+  <url>
 		<loc>https://www.darkaero.com/knowledge/standards/</loc>
 	</url>
 	<url>
@@ -48,4 +54,5 @@
 	<url>
 		<loc>https://www.darkaero.com/knowledge/builder-resources/</loc>
 	</url>
+	
 </urlset>
