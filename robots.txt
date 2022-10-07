@@ -4,3 +4,4 @@ User-agent: *
 Sitemap: https://darkaero.com/site-map.xml
 Disallow: /knowledge/composites-test
 Disallow: /knowledge/composites-test/
+Disallow: /datasheets/
