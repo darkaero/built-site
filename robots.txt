@@ -7,7 +7,6 @@ Disallow: /knowledge/composites-test/
 Disallow: /datasheets/
 
 
-Disallow: /knowledge/composites/honeycomb-sandwich-panel-benefits
 Disallow: /knowledge/composites/what-is-galvanic-corrosion
 Disallow: /knowledge/composites/carbon-fiber-vs-metal
 Disallow: /knowledge/composites/ways-to-make-a-carbon-fiber-part
